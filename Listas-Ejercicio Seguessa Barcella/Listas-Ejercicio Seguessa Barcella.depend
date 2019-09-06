@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567526319 source:/home/tecnologo/Escritorio/Barcella y Seguessa 2do semestre/Listas-Ejercicio Seguessa Barcella/main.cpp
+	<iostream>
+	"Definicion.h"
+	"Implementacion.cpp"
+
+1567766933 /home/tecnologo/Escritorio/Barcella y Seguessa 2do semestre/Listas-Ejercicio Seguessa Barcella/Definicion.h
+
+1567767430 /home/tecnologo/Escritorio/Barcella y Seguessa 2do semestre/Listas-Ejercicio Seguessa Barcella/Implementacion.cpp
+
